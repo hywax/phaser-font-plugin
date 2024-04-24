@@ -1,7 +1,7 @@
 {
   "name": "phaser-font-plugin",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Phaser 3 plugin to load fonts",
   "author": {
     "name": "hywax",
