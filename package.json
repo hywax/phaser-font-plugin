@@ -33,7 +33,9 @@
   ],
   "scripts": {
     "build": "unbuild",
-    "lint": "eslint . --fix"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "release": "pnpm lint && pnpm build && changelogen --release --push && pnpm publish"
   },
   "peerDependencies": {
     "phaser": "^3.80.1"
