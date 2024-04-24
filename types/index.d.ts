@@ -1,4 +1,6 @@
 declare module 'phaser-font-plugin' {
+  import Phaser from 'phaser'
+
   export class FontPlugin extends Phaser.Plugins.BasePlugin {
     constructor(pluginManager: Phaser.Plugins.PluginManager)
     fontFileCallback(key: string, url: string, xhrSettings?: Phaser.Types.Loader.XHRSettingsObject)
