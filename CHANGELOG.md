@@ -1,6 +1,31 @@
 # Changelog
 
 
+## v0.1.1
+
+[compare changes](https://github.com/hywax/phaser-font-plugin/compare/v0.1.0...v0.1.1)
+
+### 🩹 Fixes
+
+- Too many blank lines at the end of file ([6226b57](https://github.com/hywax/phaser-font-plugin/commit/6226b57))
+
+### 📖 Documentation
+
+- Readme ([9bdd723](https://github.com/hywax/phaser-font-plugin/commit/9bdd723))
+
+### 📦 Build
+
+- Add bundle minify ([328ff38](https://github.com/hywax/phaser-font-plugin/commit/328ff38))
+
+### 🏡 Chore
+
+- Update CONTRIBUTORS ([e6c929f](https://github.com/hywax/phaser-font-plugin/commit/e6c929f))
+
+### ❤️ Contributors
+
+- Bot ([@hywax-assistant](http://github.com/hywax-assistant))
+- Hywax ([@hywax](http://github.com/hywax))
+
 ## v0.1.0
 
 
