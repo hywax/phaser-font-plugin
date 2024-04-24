@@ -85,4 +85,3 @@ Licensed under the [MIT License](./LICENSE.md).
 [npm-downloads-href]: https://npmjs.com/package/phaser-font-plugin
 [license-src]: https://img.shields.io/badge/License-MIT-00bcd4?logo=opensourceinitiative&logoColor=fff
 [license-href]: https://npmjs.com/package/phaser-font-plugin
-
