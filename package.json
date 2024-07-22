@@ -41,7 +41,7 @@
     "phaser": "^3.80.1"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.23.1",
+    "@antfu/eslint-config": "^2.23.2",
     "changelogen": "^0.5.5",
     "eslint": "^9.7.0",
     "phaser": "^3.80.1",
