@@ -38,13 +38,13 @@
     "release": "pnpm lint && pnpm build && changelogen --release --push && pnpm publish"
   },
   "peerDependencies": {
-    "phaser": "^3.85.2"
+    "phaser": "^3.86.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.27.3",
     "changelogen": "^0.5.7",
     "eslint": "^9.12.0",
-    "phaser": "^3.85.2",
+    "phaser": "^3.86.0",
     "rollup": "^4.24.0",
     "unbuild": "^2.0.0"
   }
