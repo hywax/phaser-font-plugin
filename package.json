@@ -45,7 +45,7 @@
     "changelogen": "^0.5.7",
     "eslint": "^9.14.0",
     "phaser": "^3.86.0",
-    "rollup": "^4.24.4",
+    "rollup": "^4.25.0",
     "unbuild": "^2.0.0"
   }
 }
