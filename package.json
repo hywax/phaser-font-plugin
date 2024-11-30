@@ -43,9 +43,9 @@
   "devDependencies": {
     "@antfu/eslint-config": "^2.27.3",
     "changelogen": "^0.5.7",
-    "eslint": "^9.15.0",
+    "eslint": "^9.16.0",
     "phaser": "^3.87.0",
-    "rollup": "^4.27.4",
+    "rollup": "^4.28.0",
     "unbuild": "^2.0.0"
   }
 }
